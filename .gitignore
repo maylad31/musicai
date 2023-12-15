@@ -1,0 +1,11 @@
+checkpoint
+model.*
+pretrained_models/*
+pretrained_models/4stems
+pretrained_models/4stems/*
+stems
+stems/prev
+stems/prev/*
+*.mp3
+*.wav
+__pycache__
